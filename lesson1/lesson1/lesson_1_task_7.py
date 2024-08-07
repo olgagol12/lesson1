@@ -1,0 +1,13 @@
+def nun(num):
+    print(num, end="")
+nun(8)
+nun(8)
+nun(0)
+nun(0)
+nun(5)
+nun(5)
+nun(5)
+nun(3)
+nun(5)
+nun(3)
+nun(5)
